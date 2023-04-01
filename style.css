@@ -1,7 +1,3 @@
-.container{
-    display: flex;
-}
-
-h2{
-    flex:
+body{
+    background-image: url(/images/john-fowler-RsRTIofe0HE-unsplash.jpeg);
 }
