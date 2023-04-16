@@ -17,7 +17,7 @@ form{
     background-color: white;
     position: absolute;
     height: auto;
-    width: 30vh;
+    width: 35vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,6 +34,26 @@ h2 {
 .form-input-material{
     margin: 12px 0;
 }
+
+
+input{
+    font-size: 1.1rem;
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: grey;
+    height: 30px;
+    text-align: left;
+    padding: 7px 0 7px 20px;
+    width: 91%;
+}
+
+/*
+input[type=password]{
+    padding: 7px 20px;
+}
+*/
+ 
+
 
 .btn{
     width: 100%;
